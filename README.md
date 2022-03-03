@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aishwaryasarath.
 - 👀 I’m interested in DevOps & Cloud technologies.
-- 🌱 I’m currently updating demos on CI, CD, IaaC etc in my repos
-- 💞️ I’m looking to collaborate on new projects which matches my skillset
+- 🌱 I’m currently updating demos on CI, CD, IaaC etc in my repos.
+- 💞️ I’m looking to collaborate on new projects which matches my skillset.
 - 📫 How to reach me: Message me at https://www.linkedin.com/in/aishwaryasarath/
 
 <!---
