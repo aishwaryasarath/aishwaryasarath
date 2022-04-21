@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishwaryasarath.
 - 👀 I’m a DevOps & Cloud tools and technologies enthusiast.
-- 🌱 I’m currently updating demos on CI, CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Jenkins etc in my repos.
+- 🌱 I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Jenkins etc in my repos.
 - 💞️ I’m excited to collaborate on Devops/AWS DevOps Projects .
 - 📫 How to reach me: Message me at https://www.linkedin.com/in/aishwaryasarath/
 
