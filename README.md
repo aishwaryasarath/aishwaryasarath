@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishwaryasarath.
 - 👀 I’m a Technology Lead and a DevOps/Cloud engineer.
-- 🌱 I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Jenkins, Packer etc in my repos.
+- 🌱 I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Jenkins, Packer, Splunk etc in my repos.
 - 💞️ I’m excited to collaborate on Devops/AWS DevOps Projects .
 
 <!---
