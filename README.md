@@ -1,5 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faishwaryasarath%2Faishwaryasarath&countColor=%23d9e3f0&style=plastic)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faishwaryasarath%2Faishwaryasarath&countColor=%23263759&style=plastic)
 
 - 👋 Hi, I’m Aishwarya Sarath.
 - 👀 I’m a Technology Lead at Infosys Ltd. working as a DevOps/Cloud engineer for a retail client.
