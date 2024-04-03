@@ -6,6 +6,7 @@
 - [GCP Badges](https://www.cloudskillsboost.google/profile/badges)
 - [Credly](https://www.credly.com/users/aiswarya-sarath/badges)
 - [Linkedin](https://www.linkedin.com/in/aishwaryasarath/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aishwaryasarath)
 
 <!---
 aishwaryasarath/aishwaryasarath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
