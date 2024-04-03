@@ -5,7 +5,7 @@
 - 🌱 I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Splunk etc in my repos.
 - 💞️ I’m excited to collaborate on Devops/AWS/GCP Projects .
 - [Accredible](https://www.credential.net/profile/aiswaryasarath755135/wallet)
-- [GCP Badges](https://www.cloudskillsboost.google/profile/badges)
+- [GCP Badges](https://www.cloudskillsboost.google/public_profiles/fc01e575-e3cd-4f3b-a0ce-7741c07e83f3)
 - [Credly](https://www.credly.com/users/aiswarya-sarath/badges)
 - [Linkedin](https://www.linkedin.com/in/aishwaryasarath/)
 
