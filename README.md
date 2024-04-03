@@ -1,3 +1,6 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faishwaryasarath%2Faishwaryasarath&countColor=%23d9e3f0&style=plastic)
+
+
 - 👋 Hi, I’m Aishwarya Sarath.
 - 👀 I’m a Technology Lead at Infosys Ltd. working as a DevOps/Cloud engineer for a retail client.
 - 🌱 I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Splunk etc in my repos.
@@ -6,8 +9,6 @@
 - [GCP Badges](https://www.cloudskillsboost.google/profile/badges)
 - [Credly](https://www.credly.com/users/aiswarya-sarath/badges)
 - [Linkedin](https://www.linkedin.com/in/aishwaryasarath/)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faishwaryasarath%2Faishwaryasarath&countColor=%23d9e3f0&style=plastic)
 
 <!---
 aishwaryasarath/aishwaryasarath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
