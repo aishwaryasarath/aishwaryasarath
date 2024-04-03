@@ -7,6 +7,7 @@
 - [Credly](https://www.credly.com/users/aiswarya-sarath/badges)
 - [Linkedin](https://www.linkedin.com/in/aishwaryasarath/)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faishwaryasarath%2Faishwaryasarath&countColor=%23d9e3f0&style=plastic)
 
 <!---
 aishwaryasarath/aishwaryasarath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
