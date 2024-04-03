@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aishwaryasarath.
 - 👀 I’m a Technology Lead and a DevOps/Cloud engineer.
 - 🌱 I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Splunk etc in my repos.
-- 💞️ I’m excited to collaborate on Devops/AWS DevOps Projects .
+- 💞️ I’m excited to collaborate on Devops/AWS/GCP Projects .
 - [Accredible](https://www.credential.net/profile/aiswaryasarath755135/wallet)
 - [GCP Badges](https://www.cloudskillsboost.google/profile/badges)
 - [Credly](https://www.credly.com/users/aiswarya-sarath/badges)
