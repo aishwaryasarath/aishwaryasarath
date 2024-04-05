@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Aishwarya Sarath.
 - 👩🏽‍💻 I’m a Technology Lead at Infosys Ltd. working as a DevOps/Cloud engineer for a retail client.
-- 🐍 :whale: ☸️ [![gcp](https://cdn3.emoji.gg/emojis/3890-gcp.png)](https://emoji.gg/emoji/3890-gcp) [![aws](https://cdn3.emoji.gg/emojis/8708-aws.png)](https://emoji.gg/emoji/8708-aws) I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Splunk etc in my repos.
+- 🐍 :whale: ☸️ ☁️ I’m currently updating demos on CI/CD, IaaC, Python, Linux, Docker, Kubernetes, Terraform, Splunk etc in my repos.
 - 🤝🏽 I’m excited to collaborate on Devops/AWS/GCP Projects .
 - 🔗 [Accredible](https://www.credential.net/profile/aiswaryasarath755135/wallet)
 - 🔗 [GCP Badges](https://www.cloudskillsboost.google/public_profiles/fc01e575-e3cd-4f3b-a0ce-7741c07e83f3)
